@@ -6,15 +6,29 @@
     color: whitesmoke;
 }
 
-.h1 {
+.header-page-1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
 }
 
 .h3 {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid lime;
+    border-radius: 5px;
+    background-color: whitesmoke;
 }

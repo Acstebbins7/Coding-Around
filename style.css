@@ -1,0 +1,18 @@
+* {
+    height: auto;
+    width: 1600px;
+    font-family: fantasy;
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

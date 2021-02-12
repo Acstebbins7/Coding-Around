@@ -64,6 +64,28 @@
   align-items: center;
 }
 
-.img {
+.container a {
+  height: 30px;
+  width: 100px;
   border-radius: 10px;
+  background-color: black;
+  color: skyblue;
+  margin: 10px;
+  padding: 5px;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
+
+.container a:hover {
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: skyblue;
+  color: black;
+  margin: 10px;
+  padding: 5px;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
 }
